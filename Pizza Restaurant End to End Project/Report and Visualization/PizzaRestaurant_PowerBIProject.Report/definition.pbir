@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../PizzaRestaurant_PowerBIProject.Dataset"
+    },
+    "byConnection": null
+  }
+}
